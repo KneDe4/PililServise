@@ -1,0 +1,8 @@
+{
+    "latestVersion": "1.1.1",
+    "downloadUrl": "https://pililteam.com/download",
+    "changelog": {
+        "added": ["Новая система банов"],
+        "fixed": ["Исправлены ошибки полёта"]
+    }
+}
